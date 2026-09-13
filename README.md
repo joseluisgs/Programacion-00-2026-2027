@@ -16,7 +16,7 @@ Programación. Presentación. 1DAW. Curso 2026/2027.
 ## Contenidos
 1. [Introducción a la programación de software](https://github.com/joseluisgs/Programacion-01-2026-2027)
 2. [Programación estructurada y modular](https://github.com/joseluisgs/Programacion-02-2026-2027)
-3. [Estructuras de almacenamiento estáticas y cadenas de caracteres](https://github.com/joseluisgs/Programacion-03-2026-2027)
+3. [Almacenamiento estático y cadenas](https://github.com/joseluisgs/Programacion-03-2026-2027)
 4. [Programación Orientada a Objetos](https://github.com/joseluisgs/Programacion-04-2026-2027)
 5. [Programación avanzada orientada a objetos](https://github.com/joseluisgs/Programacion-05-2026-2027)
 6. [Programación genérica y funcional](https://github.com/joseluisgs/Programacion-06-2026-2027)
